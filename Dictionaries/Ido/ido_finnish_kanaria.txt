@@ -1,0 +1,4541 @@
+
+
+    A
+
+    a/ad : -lle, luokse
+
+    abad.o : apotti, abbedissa
+
+    abandon.ar : hylätä
+
+    abat.ar : kopauttaa
+
+    abel.o : mehiläinen
+
+    abiet.o : (jalo)kuusi
+
+    abolish.ar : poistaa
+
+    abomen.ar : inhota
+
+    abon.ar (jurnalo, revuo, periodalo) : tilata (lehti)
+
+    abord.ar : nousta maihin
+
+    abort.ar : saada keskenmeno
+
+    abortig.ar : abortoida
+
+    aboy.ar : haukkua (koira)
+
+    abrevi.ar : lyhentää
+
+    absolute : välttämättä
+
+    absorb.ar : imeä
+
+    abund.ar : olla runsaasti
+
+    aceler.ar : kiihdyttää, edistää
+
+    acend.ar : sytyttää
+
+    acens.ar : nousta, kiivetä
+
+    acent.o : korostus, korko, sanapaino
+
+    acept.ar : ottaa vastaan, hyväksyä
+
+    acer.o : vaahtera
+
+    acerb.a : kitkerä
+
+    acid.a : hapan
+
+    acid.o : happo
+
+    acident.ar : aiheuttaa onnettomuus
+
+    acion.o : osake
+
+    ad : -lle (allatiivi)
+
+    adaptar su : sopeutua
+
+    adavan : eteen
+
+    aden : -iin (illatiivi)
+
+    adherant.o : jäsen
+
+    adi.ar : jättää hyvästi
+
+    adicion.ar : laskea yhteen
+
+    adjunt.ar : liittää yhteen
+
+    adminime : ainakin
+
+    administr.ar : hallita, hallinnoida
+
+    admir.ar : ihailla
+
+    ador.ar : palvoa
+
+    adres.o : osoite
+
+    adult.a : aikuinen (adj.)
+
+    adulter.ar : tehdä aviorikos
+
+    aer.o : ilma
+
+    aeroportu.o : lentokenttä
+
+    afabl.a : ystävällinen
+
+    afekt.ar : koskettaa (sisimpään)
+
+    afektac.ar : esittää (jotain)
+
+    afer.o : asia
+
+    afish.o : juliste
+
+    afrank.ar : varustaa postimerkillä
+
+    ag.ar : toimia
+
+    agit.ar : sirottaa, ripotella
+
+    agl.o : kotka
+
+    agost.o : elokuu
+
+    agr.o : kenttä
+
+    agreabl.a : miellyttävä
+
+    ajil.a : vilkas
+
+    ajorn.ar : lykätä (tuonnemmaksi)
+
+    ajust.ar : säätää, virittää
+
+    akompan.ar : seurata, säestää
+
+    akordeon.o : harmonikka
+
+    akroch.ar : kiinnittää koukkuun, virkata
+
+    aktiv.a : aktiivinen
+
+    akurat.a : tarkka, täsmällinen
+
+    akut.a : terävä
+
+    alarm.ar : hälytys
+
+    alaud.o : leivonen
+
+    ali.o : valkosipuli
+
+    alk.o : hirvi
+
+    alkohol.o : alkoholi
+
+    alt.a : korkea, pitkä (ihminen)
+
+    altr.a : toinen, muu
+
+    altralatere : toisaalta
+
+    alud.ar : viitata johonkin
+
+    alumet.o : tulitikku
+
+    amas.o : joukko, kasa
+
+    ambe : molemmat
+
+    amelior.ar : korjailla, parannella
+
+    amik.o : ystävä
+
+    amor.ar : rakastaa
+
+    ampl.a : laaja
+
+    amuz.ar : huvittaa
+
+    anad.o : sorsa
+
+    angul.o : kulma
+
+    anjel.o : enkeli
+
+    anke : myös
+
+    ankore : vielä
+
+    ankr.o : ankkuri
+
+    anm.o : sielu
+
+    ante : ennen
+
+    anten.o : antenni
+
+    antiqu.a : muinaisaikainen
+
+    anuncari : ilmoittaa
+
+    apar.ar : näyttäytyä, ilmestyä
+
+    aparat.o : laite, koje
+
+    apart.a : eri(koinen), erillinen
+
+    aparten.ar : kuulua jllk
+
+    apene : tuskin
+
+    apert.ar : avata
+
+    apert.a : auki, avoin
+
+    aplaud.ar : taputtaa käsiään
+
+    apog.ar : nojata
+
+    april.o : huhtikuu
+
+    aprob.ar : hyväksyä
+
+    aptes.ar : kelvata
+
+    apud : vieressä
+
+    apunt.ar : tähdätä, suunnata
+
+    aqu.o : vesi
+
+    aquir.ar : hankkia, saavuttaa
+
+    ar.o : aari ? (metric syst.) ?
+
+    arane.o : hämähäkki
+
+    aranj.ar : järjestää, panna toimeen
+
+    arbitral.a : vapaavalintainen, mielivaltainen
+
+    arbor.o : puu
+
+    are.o : pinta-ala
+
+    arest.ar : vangita, pidättää
+
+    argil.o : savi
+
+    argument.ar : perustella
+
+    arjent.o : hopea
+
+    ark.o : kaari
+
+    arkizur.o : holvi
+
+    armiz.ar : aseistaa
+
+    armor.o : kaappi
+
+    arogant.a : röyhkeä
+
+    aroz.ar : kostuttaa
+
+    art.o : taide
+
+    asekur.ar : vakuuttaa, ottaa vakuutus
+
+    asiej.ar : piirittää
+
+    askult.ar : kuunnella
+
+    asn.o : aasi
+
+    asociur.o : liitto, yhdistys
+
+    aston.ar : ihmetellä
+
+    atak.ar : hyökätä, käydä kimppuun
+
+    atenc.ar : tarkkailla, huomioida
+
+    atest.ar : todistaa
+
+    ating.ar : saavuttaa
+
+    aud.ar : kuulla
+
+    autobus.o : bussi
+
+    autobus.o : linja-auto
+
+    automobil.o : auto
+
+    autor.o : tekijä (kirjan)
+
+    autoritat.o : virkavalta
+
+    autun.o : syksy
+
+    auxiliar.a : vaihtoehtoinen
+
+    av.o : isovanhempi, mummi/vaari
+
+    avan : edessä
+
+    avanc.ar : edetä
+
+    avantaj.o : etu
+
+    avar.a : itara, saita, kitsas
+
+    avelan.o : pähkinä
+
+    aven.o : kaura
+
+    aventur.o : seikkailu
+
+    avert.ar : varoittaa
+
+    aviac.ar : lentää
+
+    aviac.o : ilmailu
+
+    aviacil.o : lentokone
+
+    avin.o : mummi, isoäiti
+
+    avion.o : lentokone
+
+    aviz..ar : huomauttaa
+
+    avul.o : vaari, isoisä
+
+    ax.o : akseli
+
+    B
+
+    babil.ar : jutella, lörpötellä
+
+    babilach.ar : juoruta
+
+    bagaj.o : matkatavara
+
+    bak.ar : leipoa
+
+    balay.ar : lakaista
+
+    balbut.ar : sopertaa, änkyttää
+
+    balde : pian
+
+    balen.o : valas
+
+    baln.ar : kylpeä, uida
+
+    balon.o : pallo
+
+    ban.ar : kylvettää
+
+    banar su : kylpeä
+
+    bandaj.o : side, vanne
+
+    bank.o : pankki
+
+    bapt.ar : kastaa
+
+    bar.ar : salvata, estää
+
+    barakt.ar : rimpuilla
+
+    barb.o : parta
+
+    barbist.o : parturi
+
+    barel.o : tynnyri
+
+    bas.a : matala
+
+    basen.o : allas
+
+    baston.o : keppi, sauva
+
+    bat.ar : lyödä, hakata
+
+    batali.ar : taistella
+
+    batel.o : vene
+
+    bay.o : lahti
+
+    baz.o : pohja, perusta
+
+    bed.o : penkki (kukka-)
+
+    bek.o : nokka
+
+    bel.a : kaunis
+
+    bend.o : nauha
+
+    benedik.ar : siunata
+
+    benk.o : penkki
+
+    benzin.o : bensiini
+
+    ber.o : marja
+
+    ber.o : viinimarja
+
+    besti.o : eläin
+
+    bezon.ar : tarvita
+
+    bibl.o : raamattu
+
+    bibliotek.o : kirjasto
+
+    bicikl.o : polkupyörä
+
+    bidon.o : rasia, purkki (säilyke-)
+
+    bilanc.o : tase
+
+    biliet.o : (matka)lippu
+
+    bind.ar : sitoa
+
+    binokl.o : kiikari
+
+    bir.o : olut
+
+    birk.o : koivu
+
+    bitr.a : katkera
+
+    blam.ar : syyttää
+
+    blank.a : valkoinen
+
+    blasfem.ar : kirota
+
+    blek.ar : ammua, määkiä
+
+    blind.a : sokea
+
+    blond.a : vaalea
+
+    blov.ar : tuulla, puhaltaa
+
+    blu.a : sininen
+
+    bluz.o : pusero
+
+    bok.o : suu
+
+    bol.o : kulho
+
+    boli.ar : kiehua
+
+    boliig.ar : keittää
+
+    bomb.o : pommi
+
+    bombon.o : makeinen
+
+    bon.a : hyvä
+
+    bor.ar : porata
+
+    bord.o : ranta
+
+    bord.o : reuna
+
+    borgez.o : porvari
+
+    bors.o : pörssi
+
+    bot.o : saapas
+
+    botel.o : pullo
+
+    bov.o : nauta
+
+    bovin.o : lehmä
+
+    bovul.o : sonni, härkä
+
+    box.ar : nyrkkeillä
+
+    braki.o : käsivarsi
+
+    branch.o : oksa
+
+    brandi.o : viina
+
+    brav.a : urhea, kelpo, reipas
+
+    brik.o : tiili
+
+    bril.ar : kiiltää
+
+    Britiania, Britaniano : (Iso) Britannia, britti
+
+    bros.ar : harjata
+
+    broshur.o : esite, lehtinen
+
+    brosil.o : harja
+
+    brov.o : harjas, kulmakarva
+
+    bruis.ar : meluta
+
+    brul.ar : palaa
+
+    brun.a : ruskea
+
+    brut.o : karja, nauta-
+
+    buch.ar : teurastaa
+
+    budjet.o : budjetti
+
+    buji.o : kynttilä
+
+    buket.o : kukkakimppu
+
+    bul.o : kokkare, möykky
+
+    bulb.o : (kukka)sipuli
+
+    burjon.o : silmu
+
+    burs.o : kukkaro
+
+    butik.o : puoti, kauppa
+
+    buton.o : nappi
+
+    butr.o : voi
+
+    bux.o : laatikko
+
+    C
+
+    ca (ica) : tämä
+
+    ced.ar : väistyä, luovuttaa
+
+    cel.ar : kätkeä
+
+    celebr.ar : juhlia
+
+    celibin.o : neiti (vanhapiika)
+
+    celibul.o : poikamies
+
+    celul.o : solu
+
+    cen.o : näyttämö
+
+    censur.ar : sensuroida
+
+    cent : sata
+
+    cent.o : satanen
+
+    centr.o : keskus
+
+    cerebr.o : aivot
+
+    cereal.o : muro(t)
+
+    ceriz.o : kirsikka
+
+    cert.a : varma
+
+    cerv.o : kauris
+
+    ces.ar : lakata, loppua
+
+    ceter.a : muu
+
+    chagren.ar : surra, murehtia
+
+    chagren.o : murhe
+
+    chambr.o : huone
+
+    champinion.o : herkkusieni
+
+    champion.o : mestari (urheilu-)
+
+    chanc.o : tilaisuus
+
+    chanj.ar : vaihtaa, muuttaa toiseksi
+
+    chap.o : myssy, lakki
+
+    chapel.o : hattu
+
+    chapitr.o : luku, kappale (kirjassa)
+
+    charj.ar : rasittaa, ladata (akku)
+
+    charm.ar : viehättää
+
+    chas.ar : metsästää
+
+    chast.a : siveä
+
+    che : luona (prep.)
+
+    chef.a : pää-
+
+    chef.o : johtaja, päällikkö
+
+    chek.o : sekki
+
+    cher.a : kallis
+
+    cherp.ar : ammentaa
+
+    chifr.ar : salakirjoittaa
+
+    chip.a : halpa
+
+    chokolad.o : suklaa
+
+    chom.ar : olla joutilaana
+
+    ciel.o : taivas
+
+    cienc.o : tiede
+
+    cifr.o : numero
+
+    cign.o : joutsen
+
+    cindr.o : tuhka
+
+    cirkonstanc.o : olosuhde
+
+    cirkuler.o : kiertokirje
+
+    cirkum : ympärillä, noin
+
+    cirkumaj.o : ympäristö
+
+    cit.ar : lainata (tekstiä)
+
+    civiliz.ar : sivistää
+
+    ciz.o : sakset
+
+    cizel.ar : veistää, kaivertaa
+
+    co ,(ico) : tämä
+
+    D
+
+    da : toimesta (Engl. by -agent)
+
+    dal = da la :
+
+    dam.o : emäntä
+
+    damn.ar : kirota
+
+    damzel.o : neito
+
+    danjer.o : vaara
+
+    dank.o : kiitos!
+
+    dank.ar (ulu) : kiittää
+
+    dans.ar : tanssia
+
+    darf.ar : saada (tehdä)
+
+    dat.o : päivämäärä
+
+    de : osa jstk. (partitiivi prep.)
+
+    de.o : jumala
+
+    deb.ar : olla velkaa
+
+    debat.ar : väitellä
+
+    deboch.ar : mässäillä, irstailla
+
+    dec.ar : olla sopivaa
+
+    decembr.o : joulukuu
+
+    decens.ar : laskeutua
+
+    decept.ar : olla pettymys
+
+    dechifr.ar : tulkita, ottaa selko
+
+    decid.ar : päättää
+
+    dedikar (ad ulu) : omistaa (jllk)
+
+    defekt.a : viallinen
+
+    defens.ar : puolustaa
+
+    defin.ar : määritellä
+
+    definitiv.a : ehdoton, määrätty
+
+    deform.ar : rusentua
+
+    degener.ar : huonontua
+
+    degn.ar : suvaita
+
+    dejun.o : aamiainen
+
+    dejur.ar : päivystää
+
+    dek : kymmenen
+
+    dekad.ar : huonontua
+
+    deklar.ar : julistaa
+
+    dekliv.o : rinne
+
+    dekor.ar : koristaa
+
+    dekret.ar : määrätä
+
+    deleg.ar : delegoida
+
+    delekt.ar : ilahduttaa
+
+    delfin.o : delfiini
+
+    deliber.ar : harkita
+
+    delici.o : ilo
+
+    delikat.a : hieno, arkaluonteinen
+
+    demand.ar : pyytää
+
+    demokrati.o : demokratia
+
+    demolis.ar : hajottaa, hävittää
+
+    demonstr.ar : esittää (asia)
+
+    demokrati.o : demokratia, tasavalta
+
+    dens.a : tiheä
+
+    dent.o : hammas
+
+    denigr.ar : mitätöidä
+
+    denunc.ar : antaa ilmi
+
+    depart.ar : poistua (luota)
+
+    depend.ar (de) : riippua jstk
+
+    depoz.ar : tallettaa
+
+    depres.ar : masentaa
+
+    deriv.ar : johtaa (päättely)
+
+    desegn.ar : piirtää, hahmotella
+
+    deser.o : jälkiruoka
+
+    desfacil.a : vaikea
+
+    deskovr.o : paljastus, löytö
+
+    desquiet.a : rauhaton, meluisa
+
+    destin.ar : määrätä (kohtalo)
+
+    destrukt.ar : hävittää
+
+    detal.o : yksityiskohta
+
+    detektiv.o : salapoliisi
+
+    dev.ar : pitää, täytyä
+
+    develop.ar : kehittää (filmi)
+
+    deviz.o : laite
+
+    devot.a : omistautunut
+
+    dextr.a : oikea(npuoleinen)
+
+    dezert.o : erämaa
+
+    dezir.ar : haluta
+
+    di : -n, genetiivi-prepositio
+
+    di nulu : ei kenenkään
+
+    di omni : jokaisen
+
+    di.o : päivä
+
+    diabl.o : piru
+
+    diafan.a : läpinäkyvä
+
+    dialekt.o : murre
+
+    diapozitiv.o : dia(kuva)
+
+    dic.ar : sanoa
+
+    dicionari.o : tietosanakirja
+
+    dicipul.o : kuri
+
+    diet.o : ruokavalio
+
+    difer.o : ero, erotus
+
+    difuz.ar : levitä (kaasu)
+
+    dig.o : pato
+
+    digest.ar : sulattaa (ruokaa)
+
+    dign.a : arvoisa, arvokas
+
+    dik.a : paksu
+
+    dil = di la :
+
+    diligent.a : ahkera
+
+    diluvi.o : tulva
+
+    din.a : ohut, laiha
+
+    dind.o : kalkkuna
+
+    direcion.o : suunta
+
+    direkt.a : suora
+
+    direkt.ar : suunnata
+
+    direkter.o : johtaja
+
+    dis- : haja-
+
+    dish.o : ruoka-astia
+
+    disk.o : levy
+
+    diskret.a : hillitty
+
+    diskurs.ar : luennoida
+
+    diskut.ar : käsitellä, keskustella
+
+    dispon.ar : olla jtk käytössään, määrätä jstk
+
+    disput.ar : kiistellä
+
+    dissolv.ar : liueta
+
+    disting.ar : erottaa
+
+    distrakt.ar : häiritä, hämmentää
+
+    distrikt.o : alue, piiri
+
+    diven.ar : tulla jkskin
+
+    divers.a : erilainen
+
+    divid.ar : jakaa
+
+    divin.ar : arvata
+
+    divorc.o : avioero
+
+    divulg.ar : ilmaista
+
+    dizastr.o : täystuho
+
+    do : siis, joten, siksi
+
+    doc.ar : opettaa
+
+    dolc.a : suloinen, makea
+
+    dolor.o : tuska
+
+    dom.o : talo
+
+    domaj.ar : vahingoittaa
+
+    domaj.o : vamma, vahinko
+
+    domen.o : maatila
+
+    domestik.a : koti-
+
+    don.ar : antaa
+
+    donac.ar : lahjoittaa
+
+    dop : takana
+
+    dorm.ar : nukkua
+
+    dors.o : selkä
+
+    doz.o : annos
+
+    drak.o : lohikäärme
+
+    dramat.o : draama
+
+    drap.o : villavaate
+
+    dren.o : viemäri
+
+    dril.o : pora(kone)
+
+    drink.ar : juoda
+
+    drog.o : rohto, huume
+
+    drol.a : henkevä, älykäs
+
+    dron.ar : hukkua
+
+    du : kaksi
+
+    dubit.ar : epäillä (ettei ole totta)
+
+    duk.o : herttua
+
+    dukt.ar : johtaa, ohjata
+
+    dum : aikana
+
+    dung.o : lanta
+
+    dur.ar : jatkua, kestää
+
+    durst.ar : janota
+
+    dush.ar : suihkuta
+
+    dushey.o : suihkuhuone
+
+    dushil.o : suihku
+
+    E
+
+    e/ed ... e/ed : sekä ... että
+
+    e/ed : ja
+
+    ebri.a : juopunut
+
+    ecept.o : poikkeus
+
+    eces.ar : laajeta
+
+    ecit.ar : kiihdyttää, kiihottaa
+
+    eduk.ar : kasvattaa
+
+    efac.ar : pyyhkiä pois
+
+    efektiv.a : todellinen
+
+    efik.ar : vaikuttaa
+
+    egal.a : yhdenvertainen
+
+    egard.ar : ottaa huomioon
+
+    ek : -sta, -stä (joku poji-sta)
+
+    eklezi.o : kirkko (instituutio)
+
+    ekmigr.ar : poistua maasta
+
+    ekonomi.o : talous
+
+    ekpuls.ar : karkottaa, erottaa
+
+    el(u) : hän (nainen)
+
+    elua : hänen (naisen)
+
+    elastik.a : joustava
+
+    elefant.o : norsu
+
+    elekt.ar : valita
+
+    elektr.o : sähkö
+
+    elev.ar : nostaa
+
+    elevator.o : hissi
+
+    embaras.o : hämmennys, pula
+
+    embri.o : alkio
+
+    eminent.a : huomattava, etevä
+
+    en : -ssa, -ssä, (inessiivi)
+
+    energi.o : energia
+
+    engaj.ar : palkata, ottaa töihin
+
+    enigmat.o : arvoitus
+
+    enir.ar : saapua, tulla sisään
+
+    enorm.a : valtaisa
+
+    enoy.ar : ikävystyä
+
+    enpakig.ar : pakata
+
+    ent.o : olio
+
+    entraprez.o : ryhtyä, yrittää
+
+    entuziasm.o : innostus
+
+    envidi.ar : kadehtia
+
+    epik.a : eeppinen
+
+    episkop.o : piispa
+
+    epizod.o : episodi
+
+    epok.o : ajanjakso
+
+    equacion.o : yhtälö
+
+    equator : päiväntasaaja
+
+    equilibr.ar : keinuttaa
+
+    equip.ar : varustaa
+
+    er.o : kausi
+
+    erect.ar : nousta pystyyn
+
+    eror.ar : erehtyä, eraro virhe
+
+    es = esas : on
+
+    es.ar : olla
+
+    esenc.o : olemus
+
+    esforc.ar : yrittää, pyrkiä
+
+    eskarp.a : jyrkkä
+
+    eskombr.o : jäte, romu
+
+    espel.o : kirjoitusasu, oikeinkirjoitus
+
+    espel.ar : tavata
+
+    esper.ar : toivoa
+
+    est.o : itä
+
+    estim.ar : kunnioittaa
+
+    esting.ar : sammuttaa
+
+    esvan.ar : pyörtyä
+
+    etaj.o : kerros (talossa)
+
+    etat.o : lausunto
+
+    etern.a : iänkaikkinen
+
+    etuy.o : kotelo
+
+    event.ar : tapahtua
+
+    eventur.o : (tärkeä) tapahtuma
+
+    evidente : ilmeisesti
+
+    evikt.ar : häätää
+
+    evit.ar : välttää
+
+    ex- : entinen
+
+    examen.ar : tutkia
+
+    exempl.o : esimerkki
+
+    exerc.ar : harjoitella
+
+    exil.o : maanpako
+
+    exist.ar : olla (olemassa)
+
+    exkav.ar : kaivaa
+
+    exkluz.ar : sulkea pois
+
+    exkurs.o : retki
+
+    exkuz.ar : pyytää anteeksi
+
+    expedi.ar : lähettää
+
+    expert.a : perehtynyt
+
+    explik.ar : selittää
+
+    explor.ar : tutkia
+
+    explorer.o : partiolainen
+
+    exploz.ar : räjähtää, puhjeta
+
+    expoz.o : näyttely
+
+    expres.ar : ilmaista
+
+    extens.ar : laajentaa, levittää
+
+    exter : ulkopuolella
+
+    extrem.a : äärimmäinen
+
+    F
+
+    fab.o : papu
+
+    fabl.o : (eläin)satu
+
+    fabrikeri.o : tehdas
+
+    fac.ar : tehdä
+
+    facil.a : helppo
+
+    facin.ar : kiehtoa
+
+    fair.o : tuli
+
+    fak.o : (ammatti)ala, osasto
+
+    fakt.o : tosiasia
+
+    fal.ar : pudota
+
+    fald.ar : poimuttaa, taittaa (paperi)
+
+    falkon.o : haukka
+
+    fals.a : väärä
+
+    falsig.ar : väärentää
+
+    fam.o : maine
+
+    famili.o : perhe
+
+    familiar.a : tuttu
+
+    famin.o : nälänhätä
+
+    fanfaron.ar : kerskua
+
+    fang.o : loka, kura, muta
+
+    fantom.o : haamu, aave
+
+    far.o : majakka
+
+    farb.o : maali
+
+    fardiz.ar : meikata
+
+    farin.o : jauho(t)
+
+    fask.o : nyytti
+
+    fat.o : kohtalo
+
+    fatigit.a : väsynyt
+
+    favor.ar : suosia
+
+    feal.a : rakonto
+
+    febr.o : kuume
+
+    februar.o : helmikuu
+
+    felic.a : onnellinen
+
+    fend.ar : halkaista
+
+    fenestr.o : ikkuna
+
+    fer.o : rauta
+
+    ferdek.o : laivan kansi
+
+    feri.o : markkinat
+
+    ferm.a : luja
+
+    fervor.o : into
+
+    fervoy.o : rautatie
+
+    fest.o : juhla
+
+    festin.o : kemut
+
+    fiancin.o : morsian
+
+    fiancit.o : kihlattu (sulhanen/morsian)
+
+    fiancul.o : sulhanen
+
+    fibr.o : säie, syy (puun)
+
+    fid.ar : luottaa
+
+    fidel.a : uskollinen
+
+    fier.a : ylpeä
+
+    figur.o : hahmo
+
+    fil.o : lanka
+
+    fili.o : poika/tytär
+
+    filiin.o : tytär
+
+    filiul.o : poika (oma)
+
+    fin.ar : lopettaa
+
+    fingr.o : sormi
+
+    firm.o : toiminimi, firma
+
+    fish.o : kala
+
+    fixig.ar : kiinnittää
+
+    flam.o : liekki
+
+    flank.o : kylki, sivu
+
+    flar.ar : haistaa
+
+    flat.ar : imarrella
+
+    flav.a : keltainen
+
+    fleg.ar : hoitaa, hoivata (sairasta)
+
+    flex.ar : taivuttaa
+
+    flir.ar : liehua
+
+    flok.o : hiutale, lastu
+
+    flor.o : kukka
+
+    flu.ar : virrata
+
+    flug.ar : lentää
+
+    flut.o : huilu
+
+    fojn.o : heinä(t)
+
+    foli.o : lehti
+
+    fond.ar : perustaa
+
+    font.o : lähde
+
+    for : pois
+
+    forc.o : voima
+
+    forchas.ar : ajaa pois, karkoittaa
+
+    forj.ar : takoa
+
+    forket.o : haarukka
+
+    form.o : muoto
+
+    formik.o : muurahainen
+
+    forn.o : uuni
+
+    forsan : ehkä
+
+    fort.a : väkevä
+
+    fortik.a : kestävä, luja
+
+    fotograf.ar : ottaa valokuva
+
+    fox.o : kettu
+
+    foy.o : kerta
+
+    frag.o : mansikka
+
+    frakas.ar : musertaa
+
+    framb.o : vadelma
+
+    frap.ar : koputtaa
+
+    frap.ar : osua
+
+    frat.o : sisar/veli
+
+    fratin.o : sisko
+
+    fratul.o : veli
+
+    fren.o : jarru
+
+    frenezi.a : mieletön
+
+    fresh.a : tuore, raitis
+
+    fricon.ar : hieroa
+
+    frigorizil.o : jääkaappi
+
+    fripon.o : roisto, huijari
+
+    fromaj.o : juusto
+
+    front.o : etupuoli, rintama, otsa
+
+    frontier.o : raja
+
+    frost.o : pakkanen
+
+    frostil.o : pakastin
+
+    fru.a : aikainen
+
+    frukt.o : hedelmä
+
+    frument.o : vehnä
+
+    frument.o : vilja
+
+    fug.ar : paeta
+
+    fulmin.o : salama
+
+    fum.o : savu
+
+    funcion.ar : toimia
+
+    fund.o : pohja
+
+    fundament.o : perustus
+
+    funer.o : hautajaiset
+
+    fung.o : sieni
+
+    furi.ar : raivota
+
+    furioz.a : raivoisa
+
+    furnel.o : uuni
+
+    furt.ar : varastaa
+
+    fush.ar : hutiloida, pilata
+
+    fusil.o : tuliase, kivääri
+
+    futur.a : tuleva
+
+    G
+
+    gamb.o : sääri
+
+    gan.ar : voittaa, ansaita
+
+    gans.o : hanhi
+
+    gant.o : hansikas
+
+    garanti.ar : taata
+
+    gard.ar : vartioida
+
+    garden.o : puutarha
+
+    gargar.ar : kurlata
+
+    garson.o : tarjoilija
+
+    gas.o : kaasu
+
+    gast.ar : olla vieraana
+
+    gast.o : vieras,
+
+    gastig.ar : ottaa vieraakseen
+
+    gay.a : iloinen, hauska
+
+    generacion.o : sukupolvi
+
+    general.a : yleinen
+
+    gent.o : heimo
+
+    genu.o : polvi
+
+    gest.o : liike, ele
+
+    gimnastik.o : voimistelu
+
+    glaci.o : jää
+
+    glaciaj.o : jäätelö
+
+    glas.o : lasi
+
+    glat.a : sileä
+
+    glav.o : miekka
+
+    glit.ar : liukua
+
+    glob.o : pallo, kuula
+
+    glut.ar : niellä
+
+    glutin.ar : liimata
+
+    grad.o : aste
+
+    grad.o : porras
+
+    gran.o : jyvä
+
+    grand.a : suuri
+
+    grant.ar : myöntää lupa/oikeus
+
+    grap.o : terttu
+
+    gras.o : rasva
+
+    grat.ar : raapia
+
+    gratul.ar : onnitella
+
+    grav.a : tärkeä, vakava
+
+    gravi.o : sora
+
+    gravid.a : raskaana
+
+    grimas.ar : virnistää
+
+    grip.o : flunssa
+
+    griz.a : harmaa
+
+    grond.ar : ärjyä
+
+    gros.a : kookas
+
+    grot.o : luola
+
+    gru.o : kurki
+
+    grun.ar : murista, motkottaa
+
+    grup.o : ryhmä
+
+    gudr.o : terva
+
+    guid.ar : opastaa
+
+    guid.o : opas (turisti-)
+
+    gulf.o : merenlahti
+
+    gum.o : kumi
+
+    gurmand.o : herkuttelija
+
+    gust.ar : maistaa, maistella
+
+    gut.o : pisara
+
+    gutif.ar : tippua
+
+    gutur.o : kurkku
+
+    guvern.ar : ajaa, ohjata
+
+    H
+
+    habil.a : taitava
+
+    hak.ar : hakata
+
+    hakil.o : kirves
+
+    hal.o : sali, halli
+
+    halt.ar : pysähtyä
+
+    halucin.ar : nähdä näkyjä
+
+    han.o : kana (neutr.)
+
+    hanin.o : kana
+
+    hanul.o : kukko
+
+    har.o : hius, karva
+
+    hard.a : kova
+
+    haring.o : silli
+
+    hav.ar : olla jllk, (omata)
+
+    hazard.o : riski, vaara
+
+    hel.a : valoisa, vaalea
+
+    helm.o : kypärä
+
+    help.ar : auttaa
+
+    hem.o : koti
+
+    hepat.o : maksa
+
+    her.o : sankari
+
+    herb.o : ruoho, yrtti
+
+    hered.ar : periä
+
+    herin.o : naissankari
+
+    herul.o : miessankari
+
+    hezit.ar : epäröidä
+
+    hiere : eilen
+
+    hirund.o : pääskynen
+
+    hobi.o : harrastus
+
+    hodie : tänään
+
+    hok.o : haka, koukku
+
+    hom.o : ihminen
+
+    homard.o : hummeri
+
+    honest.a : kunnollinen, vilpitön, rehellinen
+
+    honor.o : kunnia
+
+    hor.o : tunti, kellonaika
+
+    horloj.o : kello
+
+    hotel.o : hotelli
+
+    hu.o : pöllö
+
+    huf.o : kavio
+
+    humid.a : kostea
+
+    humil.a : nöyrä
+
+    humor.o : mieliala
+
+    humur.o : huumori
+
+    hund.o : koira
+
+    hungr.ar : haluta kiihkeästi, o. nälissään
+
+    I
+
+    ibe : tuolla, siellä
+
+    ica (ca) : tämä (adj.)
+
+    ico (co) : tämä
+
+    ide.o : aate
+
+    idol.o : epäjumala
+
+    ig.ar : aiheuttaa
+
+    ignor.ar : jättää huomiotta
+
+    il(u) : hän (mies)
+
+    ilua : hänen (miehen)
+
+    imagin.ar : kuvitella
+
+    imaj.o : kuva
+
+    imit.ar : jäljitellä, matkia
+
+    imper.ar : käskeä
+
+    implik.ar : viitata jhk.
+
+    impost.o : vero
+
+    impres.o : vaikutelma
+
+    imprim.ar : painaa (kirjapainossa)
+
+    impuls.ar : antaa impulssi
+
+    imun.a : immuuni
+
+    incendi.ar : sytyttää tuli(palo)
+
+    incit.ar : ärsyttää
+
+    indign.ar : paheksua, närkästyä
+
+    individu.o : yksilö
+
+    indolent.a : laiska, välinpitämätön
+
+    indukt.ar : indusoida
+
+    inert.a : veltto, voimaton
+
+    infant.o : lapsi
+
+    infekt.ar : tartuttaa
+
+    infern.o : helvetti
+
+    infl.ar : turvota
+
+    influ.ar : vaikuttaa
+
+    inform.ar : tiedottaa
+
+    ingredient.o : lisuke, mauste
+
+    inhal.ar : vetää henkeen
+
+    inhib.ar : estää
+
+    inici.ar : tehdä aloite
+
+    ink.o : muste
+
+    inkluz.ar : sisältää
+
+    inkub.o : painajainen
+
+    inocent.a : syytön
+
+    inquest.ar : kysellä, tutkia
+
+    insekt.o : hyönteinen
+
+    insert.ar : työntää sisälle
+
+    insign.o : merkki, tunnistelappu
+
+    insist.ar : pitää päänsä, vaatia
+
+    inspekt.ar : tarkastaa
+
+    instant.o : ajanhetki
+
+    instant.o : hetki
+
+    instig.ar : kannustaa
+
+    instint.o : aavistus
+
+    instrukt.ar : opettaa
+
+    instrukt.ar : opettaa
+
+    insul.o : saari
+
+    insul.o : saari
+
+    insult.ar : häväistä
+
+    insult.ar : loukata
+
+    integr.a : kokonais-
+
+    intelekt.ar : käsittää
+
+    inteligent.a : älykäs (sivistynyt)
+
+    intenc.ar : aikoa
+
+    inter : välissä, väliin
+
+    intercept.ar : tulla väliin
+
+    interdikt.ar : kieltää
+
+    interes.ar : kiinnostaa
+
+    interes.o : harrastus, mielenkiinto
+
+    intern.a : sisäpuolinen
+
+    interpret.ar : tulkita
+
+    interrupt.ar : keskeyttää
+
+    intestin.o : suoli
+
+    intruz.ar : tyrkyttää
+
+    invad.ar : tunkeutua
+
+    invent.ar : keksiä
+
+    invit.ar : kutsua (vieraakseen)
+
+    ipsa : itse
+
+    ipse : itse
+
+    ir.ar : mennä
+
+    iracant.a : vihainen
+
+    irg.a : hyvänsä, tahansa
+
+    irgu : kuka tahansa
+
+    ita : se, tuo (attr.)
+
+    iter.ar : toistaa
+
+    iti : ne, nuo
+
+    ito : se, tuo
+
+    izol.ar : eristää
+
+    J
+
+    ja : jo
+
+    jac.ar : valehdella
+
+    jaket.o : nuttu, takki
+
+    jaluz.a : mustasukkainen
+
+    januar.o : tammikuu
+
+    jar.o : lekkeri
+
+    jem.ar : huoata, vaikeroida
+
+    jemel.a : kaksos-
+
+    jen.ar : haitata, aiheuttaa kitkaa
+
+    jentil.a : kohtelias
+
+    jer.ar : ohjata, hallita
+
+    jerm.o : itu, oras
+
+    Jesu : Jeesus
+
+    jet.ar : heittää
+
+    jinjer.o : inkivääri
+
+    jir.ar : siirtää (tilisiirtona)
+
+    jiraf.o : kirahvi
+
+    jok.ar : laskea leikkiä, pilailla
+
+    jok.o : vitsi
+
+    jorn.o : päiväsaika
+
+    jovdi.o : torstai
+
+    joy.ar : iloita
+
+    ju.ar : nauttia
+
+    jud.o : juutalainen
+
+    judici.ar : jakaa oikeutta
+
+    judik.ar : tuomita
+
+    juli.o : heinäkuu
+
+    juni.o : kesäkuu
+
+    junt.ar : yhdistää, liittää
+
+    jup.o : hame
+
+    jur.ar : vannoa
+
+    jurnal.o : (sanoma)lehti
+
+    jus : juuri, äsken
+
+    just.a : oikea
+
+    justes.ar : olla oikeassa
+
+    justifik.ar : oikeuttaa
+
+    juvel.o : jalokivi
+
+    K
+
+    ka, kad : -ko, -kö
+
+    kab.o : niemi
+
+    kaban.o : mökki
+
+    kabl.o : kaapeli
+
+    kabl.o : kaapeli
+
+    kadr.o : kehys, puitteet
+
+    kaduk.a : raihnainen
+
+    kafe.o : kahvi
+
+    kafeeri.o : kahvila
+
+    kait.o : leija
+
+    kaj.o : häkki
+
+    kak.ar : kakkia
+
+    kaldier.o : höyrykattila
+
+    kaldron.o : kattila
+
+    kalembur.o : sanaleikki
+
+    kalendari.o : kalenteri
+
+    kalkul.ar : laskea
+
+    kalm.a : tyyni
+
+    kalor.o : kuumuus
+
+    kalumni.ar : panetella, puhua pahaa
+
+    kalv.a : kalju
+
+    kalz.o : sukka
+
+    kam : kuin, kuten
+
+    kamarad.o : kaveri, toveri
+
+    kambi.ar : vaihtaa (rahaa)
+
+    kamel.o : kameli
+
+    kamen.o : takka, liesi
+
+    kamion.o : kuorma-auto
+
+    kamiz.o : paita
+
+    kamp.ar : leiriytyä
+
+    kanal.o : kanava
+
+    kanape.o : sohva
+
+    kancer.o : syöpä
+
+    kande : milloin
+
+    kandel.o : kynttilä
+
+    kanon.o : tykki, kanuuna
+
+    kant.ar : laulaa
+
+    kaos.o : sekasorto, kaaos
+
+    kap.o : pää
+
+    kapabl.a : kykenevä
+
+    kapel.o : kappeli
+
+    kapr.o : vuohi(pukki)
+
+    kapric.o : oikku
+
+    kapt.ar : pyydystää
+
+    kapuc.o : huppu
+
+    kar.a : kallis, rakas
+
+    karb.o : hiili
+
+    karcer.o : selli
+
+    kare.ar : paastota
+
+    karel.o : laatta
+
+    karez.ar : hyväillä
+
+    karg.ar : kuormata
+
+    karier.o : ura, karriääri
+
+    karmezin.o : purppura
+
+    karn.o : liha
+
+    karot.o : porkkana
+
+    kart.o : kortti
+
+    karton.o : pahvi
+
+    kas.o : kassa
+
+    kaseto, kased.o : kasetti
+
+    kask.o : kypärä
+
+    kasrol.o : kattila
+
+    kastel.o : linna
+
+    kat.o : kissa
+
+    katen.o : kahle
+
+    katen.o : ketju
+
+    kaud.o : häntä
+
+    kaul.o : kaali
+
+    kauz.o : syy
+
+    kav.a : ontto
+
+    kav.o : kuoppa, kolo
+
+    kaval.o : hevonen
+
+    kavalin.o : tamma
+
+    kavalk.ar : ratsastaa
+
+    kavalul.o : ori
+
+    kayer.o : vihko
+
+    kaz.o : tapaus, juttu
+
+    ke : että
+
+    keler.o : kellari
+
+    kelk.a : jonkin verran
+
+    kelk.a : muutama(t), vähän
+
+    kern.o : sydän, sisus, ydin
+
+    kest.o : laatikko
+
+    kin : viisi
+
+    kirk.o : kirkko
+
+    kis.ar : suudella
+
+    klam.ar : kutsua
+
+    klar.a : kirkas, selvä
+
+    klas.o : luokka
+
+    klav.o : näppäin
+
+    klient.o : asiakas
+
+    klim.ar : kiivetä
+
+    klimat.o : ilmasto
+
+    klin.ar : kallistaa
+
+    kloz.ar : sulkea
+
+    klub.o : kerho, klubi
+
+    kol.o : kaula
+
+    kold.a : kylmä, viileä
+
+    koleg.o : työtoveri, kolleega
+
+    kolekt.ar : koota
+
+    koler.o : kolera
+
+    kolomb.o : kyyhkynen
+
+    kolon.o : pylväs, palsta
+
+    kolor.o : väri
+
+    kom.o : pilkku
+
+    kombin.ar : yhdistää
+
+    komenc.ar : alkaa (tehdä jtk)
+
+    komencig.ar : aloittaa
+
+    komend.ar : tilata
+
+    komerc.ar : tehdä kauppaa
+
+    komfort.a : mukava
+
+    kompani.o : yhtiö, seura
+
+    kompar.ar : verrata
+
+    kompat.o : sääli
+
+    kompr.ar : ostaa
+
+    kompren.ar : ymmärtää
+
+    komputor.o : tietokone
+
+    komun.a : yhteinen
+
+    komunik.ar : viestiä, kommunikoida
+
+    koncern.ar : koskea
+
+    konci.ar : tajuta
+
+    koncienc.o : omatunto
+
+    kondamn.ar : tuomita
+
+    kondicion.o : ehto
+
+    kondut.ar : käyttäytyä
+
+    konfes.ar : tunnustaa
+
+    konfirm.ar : vahvistaa
+
+    konfund.ar : hämmentää
+
+    kongres.o : kongressi, edustajainkokous
+
+    konjekt.ar : arvella
+
+    konkluz.ar : tehdä johtopäätös
+
+    konkord.ar : suostua
+
+    konkurenc.ar : kilpailla
+
+    konkurs.o : kilpailu
+
+    konoc.ar : tuntea
+
+    konserv.ar : säilyttää
+
+    konsider.ar : harkita
+
+    konsil.ar : neuvoa
+
+    konsist.ar (de ulo) : koostua (jstk)
+
+    konsolac.ar : lohduttaa
+
+    konstant.a : pysyvä
+
+    konstrukt.ar : rakentaa
+
+    konsum.o : kulutus
+
+    kont.o : tili
+
+    kontakt.o : yhteys, kontakti
+
+    kontent.a : tyytyväinen
+
+    kontre : vastaan, kohti
+
+    kontree : päinvastoin
+
+    kontributur.o : jäsenmaksu
+
+    kontuz.o : ruhje, mustelma
+
+    konvenant.a : sopiva
+
+    konvink.ar : saada uskomaan
+
+    koqu.ar : keittää, laittaa ruokaa
+
+    koquey.o : keittiö
+
+    kor.o : laulukuoro
+
+    korb.o : kori
+
+    kord.o : kieli (soittimen)
+
+    kord.o : köysi, naru
+
+    kordi.o : sydän
+
+    korektig.ar : oikaista
+
+    korent.o : virta (sähkö)
+
+    korespond.ar : olla kirjeenvaihdossa
+
+    korn.o : sarvi
+
+    korp.o : ruumis, keho
+
+    kort.o : piha
+
+    kostum.o : puku
+
+    koton.o : puuvilla, pumpuli
+
+    kovr.ar : kattaa, verhota
+
+    krab.o : rapu
+
+    krayon.o : (lyijy)kynä
+
+    kre.ar : luoda
+
+    kred.ar : uskoa
+
+    krem.o : kerma
+
+    kresk.ar : kasvaa
+
+    krev.ar : räjähtää
+
+    kri.ar : huutaa
+
+    krimin.o : rikos
+
+    kripl.a : raajarikkoinen
+
+    kritik.ar : arvostella
+
+    kron.o : kruunu
+
+    kruc.o : risti
+
+    kruch.o : ruukku
+
+    krud.a : raaka, karkea
+
+    kruel.a : julma
+
+    krumpl.ar : rypistää
+
+    krur.o : reisi
+
+    krust.o : kuori
+
+    kud.o : kyynärpää
+
+    kugl.o : luoti
+
+    kuk.o : kakku
+
+    kukul.o : käki
+
+    kukumbr.o : kurkku (kasvi)
+
+    kukurbit.o : kurpitsa
+
+    kulc.o : hyttynen
+
+    kulier.o : lusikka
+
+    kulpant.a : syyllinen
+
+    kultel.o : veitsi
+
+    kun : kanssa, kera, mukana
+
+    kunikl.o : kaniini
+
+    kuntromp.o : petkutus
+
+    kunven.ar : kokoontua
+
+    kup.o : pokaali
+
+    kupr.o : kupari
+
+    kur.ar : juosta
+
+    kurac.ar : parantaa
+
+    kuracat.o : potilas
+
+    kuraj.o : rohkeus
+
+    kurajoz.a : rohkea
+
+    kurs.o : (oppi)kurssi
+
+    kurten.o : esirippu, verho
+
+    kurv.a : käyrä
+
+    kusen.o : tyyny
+
+    kush.ar (su) : mennä makuulle/nukkumaan
+
+    kust.ar (su) : maksaa (olla hintana)
+
+    kustum.ar : olla tottunut, tapana
+
+    kuv.o : allas
+
+    kuvert.o : kirjekuori
+
+    kuz.o : serkku
+
+    L
+
+    labi.o : huuli
+
+    labor.o : työ
+
+    lacer.ar : repiä irti
+
+    lag.o : järvi
+
+    lakrim.o : kyynel
+
+    lakt.o : maito
+
+    lamp.o : lamppu
+
+    lan.o : villa
+
+    land.o : maa
+
+    lang.o : kieli (suussa)
+
+    larj.a : leveä
+
+    las.ar : jättää
+
+    last.a : viimeinen
+
+    later.o : sivu, puoli, kylki
+
+    latrin.o : vessa
+
+    laud.ar : ylistää
+
+    laut.a : äänekäs
+
+    lav.ar : pestä
+
+    lavomashin.o : pesukone
+
+    lecion.o : oppitunti
+
+    ledr.o : nahka (materiaalina)
+
+    leg.o : laki
+
+    legum.o : vihannes
+
+    lek.ar : nuolla
+
+    lekt.ar : lukea
+
+    lent.a : hidas
+
+    leon.o : leijona
+
+    lepor.o : jänis
+
+    lern.ar : oppia
+
+    letr.o : kirje
+
+    lev.ar : nostaa
+
+    li : he
+
+    liber.a : vapaa
+
+    libr.o : kirja
+
+    lig.ar : sitoa
+
+    lign.o : puu(aines)
+
+    lili.o : lilja
+
+    lim.ar : viilata
+
+    lin.o : pellava
+
+    line.o : viiva, linja
+
+    lingu.o : (puhuttu) kieli
+
+    list.o : lista, luettelo
+
+    lit.o : sänky
+
+    liter.o : kirjain
+
+    litr.o : litra
+
+    livr.ar : toimittaa
+
+    lo : mikä, se (viittaa päälauseen sisältöön)
+
+    loj.ar : asua
+
+    lojant.o : asukas
+
+    lok.o : paikka
+
+    lokac.ar : vuokrata (itselleen)
+
+    long.a : pitkä
+
+    lore : silloin
+
+    lotri.o : arpajaiset
+
+    lu : hän (mies/nainen)
+
+    lua : hänen
+
+    lubrifik.ar : voidella
+
+    luci.o : hauki
+
+    lud.ar : soittaa
+
+    lug.ar : vuokrata (pois)
+
+    lul.ar : keinuttaa
+
+    lum.a : valoisa
+
+    lum.ar : loistaa, valaista
+
+    lum.o : loisto
+
+    lumoz.a : kirkas
+
+    lun.o : kuu
+
+    lundi.o : maanantai
+
+    lur.ar : houkutella
+
+    M
+
+    ma : mutta, vaan
+
+    maestr.o : mestari
+
+    magazin.o : varasto, tavaratalo
+
+    magi.o : noituus, magia
+
+    maiflor.o : kielo
+
+    majest.a : majesteetillinen
+
+    makul.o : tahra, täplä
+
+    mal.a : paha, huono
+
+    malad.a : sairas
+
+    malad.o : tauti, sairaus
+
+    malgre : uhalla, huolimatta
+
+    mam.o : nisä, rinta
+
+    manier.o : tapa
+
+    manik.o : hiha
+
+    manj.ar : syödä
+
+    manjet.ar : herkutella
+
+    mank.ar : puuttua
+
+    mantel.o : viitta, takki
+
+    manu.o : käsi
+
+    map.o : kartta
+
+    mar.o : meri
+
+    march.ar : marssia
+
+    marchand.ar : tinkiä, hieroa kauppaa
+
+    mardi.o : tiistai
+
+    marhund.o : hylje
+
+    mariaj.ar : vihkiä avioliittoon
+
+    mariajes.ar : mennä naimisiin
+
+    mark.o : merkki
+
+    marsh.o : suo
+
+    mart.o : maaliskuu
+
+    martel.o : vasara
+
+    mashin.o : kone
+
+    mashinoskrib.ar : kirjoittaa (koneella)
+
+    mason.ar : muurata
+
+    mastik.ar : pureksia
+
+    mastr.o : isäntä
+
+    matin.o : aamu
+
+    matr.o : äiti
+
+    matrac.o : patja
+
+    matur.a : kypsä
+
+    maxim : eniten, superlatiivin prefiksi
+
+    may.o : toukokuu
+
+    me : minä
+
+    mea : minun
+
+    medali.o : mitali
+
+    medikament.o : lääke
+
+    medit.ar : miettiä
+
+    melk.ar : lypsää
+
+    mem : vieläpä, jopa
+
+    membr.o : jäsen
+
+    memor.ar : muistaa
+
+    memore : ulkoa, ulkomuistista
+
+    mencion.ar : mainita
+
+    menti.ar : valehdella
+
+    menton.o : leuka
+
+    merit.ar : ansaita
+
+    merkat.o : markkinat, menekki
+
+    merkat.o : messut
+
+    merkurdi.o : keskiviikko
+
+    mesaj.o : viesti
+
+    mestier.o : (käsityöläis)ammatti
+
+    met.ar : pukea (päälleen)
+
+    metropolitano* : metro
+
+    mez.o : keskikohta
+
+    mezur.ar : mitata
+
+    miel.o : hunaja
+
+    mien.o : ilme
+
+    migr.ar : vaeltaa, muuttaa (lintu)
+
+    mil : tuhat
+
+    mili.o : maili
+
+    milion.o : miljoona
+
+    milit.o : sota
+
+    min.o : kaivos, miina
+
+    minac.ar : uhata
+
+    ministr.o : ministeri
+
+    minut.o : minuutti
+
+    miop.a : likinäköinen
+
+    mirtel.o : mustikka
+
+    mision.o : lähetys(toiminta)
+
+    mit.o : myytti
+
+    mix.ar : sekoittaa
+
+    mizer.o : kurjuus
+
+    mobl.o : huonekalu
+
+    mod.o : muoti
+
+    model.o : malli
+
+    modest.a : vaatimaton
+
+    mok.ar : pilkata
+
+    mol.a : pehmeä
+
+    mold.ar : homehtua
+
+    monak.o : munkki
+
+    monat.o : kuukausi
+
+    mond.o : maailma
+
+    mont.o : vuori
+
+    montr.ar : osoittaa
+
+    mord.ar : purra
+
+    morge : huomenna
+
+    mort.ar : kuolla
+
+    motor.o : moottori
+
+    mov.ar : liikuttaa
+
+    muel.ar : jauhaa
+
+    muev.o : lokki
+
+    muj.ar : pauhata, kuohua
+
+    muk.o : lima
+
+    mulier.o : nainen
+
+    mulier.o : nainen, naaras-
+
+    mulierul.o : naismainen mies, transvestiitti
+
+    mult.a : paljon
+
+    munt.ar : asentaa
+
+    mur.o : seinä
+
+    murmur.ar : murista
+
+    mus.o : hiiri
+
+    mush.o : kärpänen
+
+    musk.o : sammal
+
+    muskul.o : lihas
+
+    must.ar : täytyä, olla pakko
+
+    mustard.o : sinappi
+
+    mut.a : mykkä
+
+    muton.o : lammas
+
+    muze.o : museo
+
+    muzik.o : musiikki
+
+    N
+
+    n.o : ei
+
+    nacion.o : kansakunta
+
+    naktigal.o : satakieli
+
+    nam : sillä, koska
+
+    narac.ar : kertoa, tarinoida
+
+    narkot.ar : huumata, narkotajo huume
+
+    nask.ar : synnyttää
+
+    nat.ar : uida
+
+    natur.o : luonto
+
+    nauz.ar : yököttää
+
+    nav.o : laiva
+
+    naz.o : nenä
+
+    ne : ei
+
+    nebul.o : usva
+
+    neces.a : välttämätön
+
+    negoci.o : (liike)toimi
+
+    nek ... nek : ei ... ei
+
+    nepot.o : lapsenlapsi
+
+    nerv.o : hermo
+
+    nervoz.a : hermostunut
+
+    nest.o : pesä
+
+    net.a : puhdas
+
+    neutr.a : puolueeton, neutraali
+
+    nev.o : veljen-, sisarenpoika
+
+    ni : me
+
+    nich.o : komero, syvennys (seinässä)
+
+    nigr.a : musta
+
+    niv.o : lumi
+
+    nivel.o : taso
+
+    nobel.o : aatelismies
+
+    nobl.a : jalo
+
+    nod.o : solmu
+
+    nod.o : solmuke, rusetti
+
+    nokt.o : yö
+
+    nom.o : nimi
+
+    nombr.o : luku(määrä)
+
+    non : yhdeksän
+
+    nord.o : pohjoinen
+
+    norm.o : sääntö, normi
+
+    not.ar : merkitä (muistiin)
+
+    nov.a : uusi
+
+    novembr.o : marraskuu
+
+    nu : no
+
+    nuanc.o : vivahdus
+
+    nub.o : pilvi
+
+    nuc.o : pähkinä
+
+    nud.a : alaston
+
+    nuk.o : niska
+
+    nula : ei minkäänlainen
+
+    nulafoye : ei koskaan
+
+    nulaloke : ei missään
+
+    nulamaniere : ei mitenkään
+
+    nule : ei mitenkään
+
+    nulo : ei mitään/mikään
+
+    nultempe : ei koskaan
+
+    nulu : ei kukaan
+
+    nun : nyt
+
+    nur : vain
+
+    nutr.ar : ravita
+
+    O
+
+    o(d) : tai, vai
+
+    obedi.ar : totella
+
+    objecion.ar : vastustaa
+
+    objekt.o : esine, kohde
+
+    oblig.ar : pakottaa
+
+    oblivi.ar : unohtaa
+
+    observ.ar : huomata, tarkkailla
+
+    obsolet.a : käyttökelvoton
+
+    obstakl.o : vastus
+
+    obstin.a : itsepäinen
+
+    obten.ar : ottaa omakseen
+
+    ocean.o : valtameri
+
+    ocident.o : oksidentti, länsimaat
+
+    ocil.ar : heiluttaa
+
+    ocit.ar : haukotella
+
+    odor.o : tuoksu
+
+    ofens.ar : loukata
+
+    ofic.o : virka
+
+    ofical.a : virallinen
+
+    oficey.o : toimisto
+
+    ofr.ar : uhrata
+
+    ofte : usein
+
+    ok : kahdeksan
+
+    okazion.o : tilanne, mahdollisuus
+
+    oktobr.o : lokakuu
+
+    okul.o : silmä
+
+    okup.ar : valloittaa, miehittää
+
+    okupit.a : varattu, kiireinen
+
+    ol(u) : se
+
+    old.a : vanha
+
+    ole.o : öljy
+
+    olim : ennen, aiemmin
+
+    ombr.o : varjo
+
+    omn.a : jokainen (attrib.)
+
+    omn.e : kaikin tavoin
+
+    omn.o : kaikki, jokainen
+
+    omnaloke : kaikkialla
+
+    omnamaniere : kaikin tavoin
+
+    omni : jokainen
+
+    on(u) : passiivin muodollinen subjekti
+
+    ond.o : laine
+
+    onkl.o : setä
+
+    onyon.o : (ruoka)sipuli
+
+    operac.o : leikkaus, toimenpide
+
+    opini.o : mielipide
+
+    opinion.ar : olla jtk mieltä, arvella
+
+    oportun.a : sopiva, mukava
+
+    or.o : kulta
+
+    oranj.o : appelsiini
+
+    ordin.o : järjestys
+
+    ordinar.a : tavallinen
+
+    orel.o : korva
+
+    orfan.o : orpo
+
+    organ.o : elin
+
+    organism.o : järjestö
+
+    organiz.ar : järjestää
+
+    orgen.o : urku
+
+    orient.o : orientti, kaukoitä
+
+    orkestr.o : orkesteri
+
+    orn.ar : koristaa
+
+    ortodox.a : ortodoksi
+
+    ost.o : luu
+
+    otus.o : huuhkaja
+
+    ov.o : muna
+
+    oval.a : ovaali, soikea
+
+    oxigen.o : happi
+
+    P
+
+    pac.o : rauha
+
+    pacient.a : kärsivällinen
+
+    padel.o : paistinpannu
+
+    padlok.o : munalukko
+
+    paf.ar : ampua
+
+    pafil.o : pyssy
+
+    pag.ar : maksaa (antaa rahaa)
+
+    pagin.o : sivu
+
+    pak.o : paketti
+
+    pal.a : kalpea
+
+    palac.o : palatsi
+
+    pali.o : olki
+
+    palp.ar : tunnustella, kosketella
+
+    pan.o : leipä
+
+    pansaj.o : laastari
+
+    pantalon.o : (pitkät) housut
+
+    pap.o : paavi
+
+    papagay.o : papukaija
+
+    papav.o : unikko
+
+    paper.o : paperi
+
+    papilion.o : perhonen
+
+    papl.o : puuro
+
+    par.o : pari
+
+    paralizita, -ik.a : rampa
+
+    param.o : autolautta
+
+    parapluv.o : sateenvarjo
+
+    pardon.ar : antaa anteeksi
+
+    parent.a : vanhempi (isä-, äiti-)
+
+    parfum.o : hajuvesi, parfyymi
+
+    pari.ar : lyödä vetoa
+
+    park.o : puisto
+
+    parke.ar : pysäköidä
+
+    parlament.o : eduskunta, parlamentti
+
+    parok.o : pappi (yl. katolinen)
+
+    parol.ar : puhua
+
+    part.o : osa
+
+    parti.o : puolue
+
+    pas.ar : mennä ohi, kulua
+
+    pasig.ar : viettää
+
+    pasiv.a : passiivinen
+
+    pask.o : pääsiäinen
+
+    pasport.o : passi
+
+    past.o : taikina, pasta
+
+    pastet.o : pasteija, piiras
+
+    pastor.o : pappi, pastori
+
+    patr.o : isä
+
+    paviment.o : lattia
+
+    paz.ar : astua
+
+    pec.o : pala
+
+    ped.o : jalka(terä)
+
+    pedir.ar : kävellä
+
+    peizaj.o : maisema
+
+    pek.ar : tehdä syntiä
+
+    pekt.ar : kammata
+
+    pektor.o : rinta(kehä)
+
+    pekuni.o : raha(t)
+
+    pel.o : iho
+
+    pelt.o : turkki, turkis
+
+    pen.ar : ahkeroida, nähdä vaivaa
+
+    pend.ar : riippua
+
+    penetr.ar : tunkeutua läpi
+
+    penik.o : pensseli
+
+    pens.ar : ajatella
+
+    pension.o : eläke
+
+    per : avulla (prep.)
+
+    perd.ar : kadottaa
+
+    perfekt.a : täydellinen
+
+    period.o : jakso, kausi
+
+    peris.ar : tuhoutua
+
+    perl.o : helmi
+
+    permis.ar : sallia
+
+    persekut.ar : vainota
+
+    persist.ar : pysyä, kestää, itsepäisesti yrittää
+
+    person.o : henkilö, tyyppi
+
+    petul.ar : kujeilla
+
+    pez.ar : painaa
+
+    pi.a : hurskas
+
+    pice.o : kuusi (puu)
+
+    pik.ar : pistää
+
+    pikt.ar : maalata
+
+    pilul.o : pilleri
+
+    pin.o : mänty
+
+    pinch.ar : nipistää
+
+    pingl.o : neula (nuppi-)
+
+    pint.o : huippu, kärki
+
+    pip.o : piippu
+
+    pipi.ar : visertää
+
+    pipr.o : pippuri
+
+    pir.o : päärynä
+
+    pist.ar : survoa
+
+    piz.o : herne
+
+    pizz.a : pizza, pitsa
+
+    plac.o : tori, aukio
+
+    plad.o : lautanen
+
+    plad.o : vati, ruokalaji
+
+    plafon.o : katto (sisä-)
+
+    plaj.o : uimaranta
+
+    plan.a : tasainen
+
+    plan.o : suunnitelma
+
+    planet.o : kiertotähti
+
+    plank.o : hylly
+
+    plantac.ar : istuttaa
+
+    plaso/spac.o : paikka
+
+    plastik.o : muovi
+
+    plat.a : litteä
+
+    plaud.ar : loiskia
+
+    plekt.ar : palmikoida
+
+    plen.a : täysi
+
+    plend.ar : valittaa
+
+    plenig.ar : täyttää (tehtävä)
+
+    plez.ar (ad ulu) : miellyttää jtk
+
+    plezur.o : huvi
+
+    plomb.o : lyijy
+
+    plor.ar : itkeä
+
+    plu : enemmän, -mpi (komparatiivi)
+
+    plunj.ar : sukeltaa
+
+    plur.a : useat
+
+    plus : edelleen, enää
+
+    pluv.ar : sataa
+
+    po : "kutakin kohti"
+
+    poet.o : runoilija
+
+    poezi.o : runous
+
+    pol.o : napa (maantiet.)
+
+    polex.o : tuuma (mitta)
+
+    polic.o : poliisi(laitos)
+
+    policano, policist.o : poliisi
+
+    polis.ar : kiillottaa, hioa
+
+    politik.o : politiikka
+
+    polv.o : pöly
+
+    pom.o : omena
+
+    ponder.ar : punnita
+
+    pont.o : silta
+
+    popul.o : kansa
+
+    popular.a : suosittu, kansanomainen
+
+    por : varten, vuoksi
+
+    porcelan.o : porsliini
+
+    porcion.o : annos
+
+    pord.o : ovi
+
+    pork.o : sika
+
+    porkin.o : emakko
+
+    porkul.o : karju
+
+    port.ar : kantaa
+
+    portret.o : muotokuva
+
+    pos : jäljessä, takana
+
+    pose : myöhemmin
+
+    posed.ar : omistaa
+
+    posh.o : tasku
+
+    posibl.a : mahdollinen
+
+    post.o : posti(laitos)
+
+    posten.o : asema, virkapaikka
+
+    postul.ar : vaatia
+
+    pot.o : ruukku
+
+    potent.a : mahtava
+
+    pov.ar : voida
+
+    poz.ar : panna, asettaa
+
+    pozicion.o : asema, tilanne
+
+    preci.o : hinta
+
+    precipue : erityisesti
+
+    preciz.a : täsmällinen
+
+    predikt.ar : saarnata
+
+    prefer.ar : pitää parempana
+
+    preg.ar : pyytää
+
+    preg.ar : rukoilla
+
+    premi.o : palkinto
+
+    pren.ar : ottaa
+
+    prepar.ar : valmistaa
+
+    pres.ar : painaa, puristaa
+
+    preske : melkein
+
+    pretend.ar : vaatia, tavoitella
+
+    preter : ohi
+
+    pretext.o : tekosyy
+
+    prezid.ar : johtaa puhetta
+
+    prezidant.o : puheenjohtaja; (tasavallan) presidentti
+
+    pri : -sta, -stä
+
+    printemp.o : kevät
+
+    priz.ar : pitää jstk
+
+    prizent.ar : esittää
+
+    pro : tähden, vuoksi
+
+    pro omno : joka syystä ?
+
+    pro quo : miksi
+
+    pro to : siksi
+
+    prob.ar : koettaa, yrittää
+
+    produkt.ar : tuottaa
+
+    profesion.o : ammatti
+
+    profit.ar : hyötyä
+
+    profund.a : syvä
+
+    progres.ar : edistyä
+
+    projet.o : suunnitelma, hanke
+
+    promen.ar : kävellä
+
+    promis.ar : luvata
+
+    pront.a : valmis
+
+    propoz.ar : ehdottaa
+
+    propr.a : oma
+
+    prosper.ar : menestyä
+
+    protekt.ar : suojella
+
+    proverb.o : sananlasku
+
+    provinc.o : maakunta, provinssi
+
+    proviz.ar : varustaa jllk
+
+    proxim : läheinen, lähi-
+
+    prudent.a : järkevä, varovainen
+
+    prun.o : luumu
+
+    prunt.ar : lainata
+
+    pruv.ar : todistaa
+
+    publik.a : julkinen
+
+    puer.o : lapsi
+
+    puerin.o : tyttö (lapsi)
+
+    puerul.o : poika (lapsi)
+
+    pugn.o : nyrkki
+
+    pulc.o : kirppu
+
+    pulmon.o : keuhko
+
+    puls.ar : työntää
+
+    pulver.o : ruuti; pulveri, jauhe
+
+    pump.ar : pumpata
+
+    punis.ar : rangaista
+
+    punt.o : piste
+
+    punt.o : piste (pelissä)
+
+    pupe.o : nukke
+
+    pute.o : kaivo
+
+    putr.ar : mädäntyä, lahota
+
+    Q
+
+    qua : kuka; di qua - kenen
+
+    quadrat.o : neliö
+
+    quala : millainen
+
+    quale : kuinka, miten
+
+    quales.o : laatu, ominaisuus
+
+    quankam : vaikka
+
+    quant(es).o : paljous, määrä
+
+    quant.a : kuinka paljon
+
+    quar : neljä
+
+    quaze : ikään kuin
+
+    quer.ar : hakea
+
+    querk.o : tammi
+
+    question.o : kysymys
+
+    question.ar su : ihmetellä
+
+    quiet.a : tyyni, hiljainen
+
+    quik : heti
+
+    quitig.ar : kuitata
+
+    quo : mikä
+
+    R
+
+    rabat.o : alennus
+
+    racion.o : järki
+
+    racional.a : järkevä, rationaalinen
+
+    radar.o : tutka
+
+    radi.ar : säteillä
+
+    radi.o : säde, radio
+
+    radik.o : juuri
+
+    rafin.ar : tarkentaa
+
+    rakont.ar : kertoa tarina
+
+    ran.o : sammakko
+
+    rapec.ar : paikata
+
+    rapid.a : nopea
+
+    raport.ar : raportoida
+
+    rapt.ar : ryöstää
+
+    rapter.o : rosvo
+
+    rar.a : harvinainen
+
+    ras.o : rotu
+
+    rasp.ar : vihloa, kirvellä
+
+    rast.ar : haravoida
+
+    rat.o : rotta
+
+    rauk.a : käheä
+
+    ravis.ar : ihastuttaa
+
+    raz.ar su : ajaa partansa
+
+    real.a : todellinen
+
+    recev.ar : saada
+
+    reciprok.a : keskinäinen
+
+    red.a : punainen
+
+    redakt.ar : toimittaa
+
+    redakter.o : toimittaja
+
+    refuj.ar : paeta turvaan
+
+    refuz.ar : hylätä, kieltäytyä
+
+    regal.ar : kestitä, tarjota ruoaksi
+
+    regard.ar : katsella
+
+    region.o : alue
+
+    regn.ar : hallita
+
+    regret.ar : valittaa, pahoitella
+
+    regul.o : sääntö
+
+    rej.o : hallitsija, monarkki
+
+    rejin.o : kuningatar
+
+    rejul.o : kuningas
+
+    rekolt.ar : korjata satoa
+
+    rekomend.ar : suositella
+
+    rekompenc.ar : palkita, korvata
+
+    rekt.a : suora
+
+    rel.o : kisko, raide
+
+    relat.o : suhde
+
+    religi.o : uskonto
+
+    rem.ar : soutaa
+
+    remark.ar : huomata
+
+    remedi.o : keino, väline
+
+    ren.o : munuainen
+
+    renkontr.ar (ulu, ulo) : tavata (joku, toisensa)
+
+    rentir.o : poro (eläin)
+
+    renvers.ar : kumota, kaataa esine
+
+    repar.ar : korjata
+
+    repas.ar : silittää
+
+    repent.ar : katua
+
+    repet.ar : kerrata
+
+    repoz.ar : levätä
+
+    reprezent.ar : edustaa
+
+    reproch.ar : moittia
+
+    resort.o : jousi
+
+    respir.ar : hengittää
+
+    respond.ar : vastata
+
+    rest.ar : jäädä
+
+    restoreri.o : ravintola
+
+    ret.o : verkko
+
+    retr.o : jälleen
+
+    rev.ar : uneksia
+
+    revenu.o : tulo
+
+    revolt.ar : kapinoida
+
+    rezerv.ar : varata
+
+    rezist.ar : vastustaa, kestää
+
+    rezult.o : tulos
+
+    rich.a : rikas
+
+    rid.ar : nauraa
+
+    ring.o : sormus
+
+    risk.ar : uskaltaa, riskeerata
+
+    ritm.o : rytmi
+
+    river.o : joki
+
+    riz.o : riisi
+
+    rob.o : (naisten) puku, leninki
+
+    robinet.o : hana
+
+    rok.o : kallio
+
+    rond.o : piiri, ympyrä
+
+    ronk.ar : kuorsata
+
+    ros.o : kaste
+
+    rost.ar : paistaa, paahtaa
+
+    rot.o : pyörä, ratas
+
+    roz.o : ruusu
+
+    ruband.o : nauha
+
+    ruband.o : nauha, liuska
+
+    rubrik.o : otsikko
+
+    rul.ar : vierittää
+
+    rupt.ar : rikkoa, murtaa
+
+    rur.o : maaseutu
+
+    rust.o : ruoste
+
+    ruz.a : viekas
+
+    S
+
+    sabl.o : hiekka
+
+    saj.a : viisas
+
+    sak.o : säkki, kassi, laukku
+
+    sal.o : suola
+
+    salad.o : salaatti
+
+    salari.o : palkka
+
+    salik.o : paju
+
+    salmon.o : lohi
+
+    salt.ar : hypätä
+
+    salut.ar : tervehtiä
+
+    salv.ar : pelastaa
+
+    sam.a : sama
+
+    san.a : terve
+
+    sang.o : veri
+
+    sant.a : pyhä
+
+    sap.o : saippua
+
+    sapor.o : maku
+
+    sarkl.ar : kitkeä
+
+    saturdio : lauantai
+
+    saturit.a : kylläinen
+
+    sauc.o : kastike
+
+    saun.o : sauna
+
+    sav.ar : tietää
+
+    se : jos
+
+    secion.o : osasto
+
+    seg.ar : sahata
+
+    segun : mukaan (lain-, tiedon-)
+
+    sekal.o : ruis
+
+    sekretaj.o : salaisuus
+
+    sekretari.o : sihteeri
+
+    sekund.o : sekuntti
+
+    sekur.a : varma
+
+    sel.o : satula
+
+    sem.ar : kylvää
+
+    seman.o : viikko
+
+    sembl.ar : näyttää jllk
+
+    seml.o : sämpylä, (pyöreä) pulla
+
+    sempre : aina
+
+    sen : ilman
+
+    senc.o : merkitys, "tolkku"
+
+    send.ar : lähettää
+
+    sensenc.o : hölynpöly
+
+    sent.ar : tuntea
+
+    sep : seitsemän
+
+    septembr.o : syyskuu
+
+    sequ.ar : seurata
+
+    serch.ar : etsiä
+
+    seri.o : sarja
+
+    seri.o : vuoro, jono
+
+    sering.o : syreeni
+
+    serioz.a : vakava
+
+    serpent.o : käärme
+
+    serur.o : lukko
+
+    serurag.ar : lukita
+
+    serv.ar : palvella
+
+    sever.a : ankara
+
+    sexu.o : sukupuoli
+
+    sezon.o : vuodenaika, sesonki
+
+    shak.o : shakki
+
+    sham.ar : hävetä
+
+    shancel.ar : horjuttaa
+
+    shel.o : kuori
+
+    shifon.o : riepu
+
+    shild.o : kilpi, nimilappu
+
+    shink.o : kinkku
+
+    shirm.ar : suojata
+
+    shov.ar : lykätä
+
+    shovelag.ar : lapioida
+
+    shu.o : kenkä
+
+    shultr.o : olkapää
+
+    sid.ar : istua
+
+    sifl.ar : viheltää
+
+    sigar.o : sikari
+
+    sigaret.o : savuke
+
+    sign.o : merkki
+
+    signifik.ar : merkitä
+
+    sik.a : kuiva
+
+    silab.o : tavu
+
+    silences.ar : vaieta
+
+    silik.o : pii(kivi)
+
+    silk.o : silkki
+
+    simbol.o : symboli
+
+    simi.o : apina
+
+    simil.a : kaltainen, samanlainen
+
+    simpl.a : yksinkertainen
+
+    sincer.a : vilpitön
+
+    sior.o : herra (tai rouva)
+
+    siorin.o : rouva, neiti
+
+    siorul.o : herra
+
+    sis : kuusi
+
+    sistem.o : systeemi
+
+    sitel.o : ämpäri
+
+    situ.ar : sijaita
+
+    situaci.o : tilanne
+
+    sivag.ar : seuloa
+
+    sive … sive : joko … tai
+
+    skal.o : mittakaava
+
+    skarabe.o : kovakuoriainen
+
+    skis.ar : tehdä luonnos
+
+    sklav.o : orja
+
+    skrap.ar : raapia
+
+    skrib.ar : kirjoittaa
+
+    skrub.o : ruuvi
+
+    skult.ar : veistää, hakata
+
+    skurel.o : orava
+
+    slam.o : muta
+
+    sobr.a : raitis
+
+    soci.o : yhteiskunta
+
+    societ.o : yhdistys, seura
+
+    sociz.o : makkara
+
+    sofa.o : sohva
+
+    sol.a : yksin
+
+    solen.a : juhlallinen
+
+    soli.o : kynnys
+
+    solv.ar : ratkaista
+
+    somer.o : kesä
+
+    son.ar : soida, kuulua
+
+    son.o : ääni
+
+    sonj.o : uni
+
+    sono-kaset.o : ääninauha
+
+    sonores.ar : soida, helistä
+
+    sorc.ar : taikoa
+
+    sordidig.ar : saastuminen
+
+    sorg.ar : hoitaa (lapsia)
+
+    sorg.ar : huolehtia
+
+    sospir.ar : kaihota, ikävöidä
+
+    sovaj.a : villi
+
+    spac.o : avaruus, tila
+
+    spar.ar : säästää
+
+    spec.o : laji
+
+    spegul.o : peili
+
+    spens.o : meno, rahankulu
+
+    spic.o : mauste
+
+    spin.o : selkäranka
+
+    spirit.o : henki
+
+    sport.o : urheilu
+
+    spoz.o : puoliso
+
+    spozin.o : vaimo
+
+    spozul.o : aviomies
+
+    spric.ar : ruiskuttaa
+
+    spum.o : vaahto
+
+    sput.ar : sylkeä
+
+    stabl.o : talli
+
+    stac.ar : seistä
+
+    stacion.o : asema
+
+    stal.o : teräs
+
+    stamp.ar : leimata
+
+    stand.ar : voida (hyvin, huonosti)
+
+    stand.o : tila
+
+    standard.o : lippu
+
+    stang.o : tanko, seiväs
+
+    start.ar : aloittaa, startata
+
+    stat.o : valtio
+
+    stel.o : tähti
+
+    stern.ar : levittää, kaataa pitkälleen
+
+    stof.o : kangas
+
+    stomak.o : vatsa
+
+    ston.o : kivi
+
+    stop.ar : tukkia
+
+    stranj.a : kummallinen
+
+    stranjer.a : vieras
+
+    strat.o : katu
+
+    strat.o : kerros
+
+    strekiz.ar : vetää viiva
+
+    stri.o : juova, raita
+
+    strik.o : lakko
+
+    student.o : opiskelija
+
+    studi.ar : opiskella
+
+    stul.o : tuoli
+
+    stult.a : typerä
+
+    su : itseään (refleksiivi)
+
+    sua : -nsa
+
+    sub : alla (jnkin)
+
+    subite : äkkiä
+
+    suces.ar : menestyä, onnistua
+
+    sud.o : etelä
+
+    sudorif.ar : hiota, hikoilla
+
+    sufic.ar : riittää
+
+    suficante : tarpeeksi
+
+    sufok.ar : tukehduttaa
+
+    sufr.ar : kärsiä
+
+    sug.ar : imeä
+
+    suk.o : mehu
+
+    sukr.o : sokeri
+
+    sukus.ar : tärisyttää, ravistaa
+
+    sum.o : summa
+
+    sun.o : aurinko
+
+    sundi.o : sunnuntai
+
+    sup.o : keitto
+
+    super : yläpuolella, -lle
+
+    superstic.o : taikausko
+
+    supoz.ar : olettaa
+
+    supre : ylhäällä, yläpuolella
+
+    sur : päällä, -lla
+
+    surd.a : kuuro
+
+    surpriz.ar : yllättää
+
+    suspekt.ar : epäillä jksk
+
+    susten.ar : tukea
+
+    susur.ar : kuiskata
+
+    sut.ar : ommella
+
+    swich.ar : kytkeä (virta)
+
+    T
+
+    ta : tuo, se
+
+    tabak.o : tupakka
+
+    tabel.o : taulu(kko)
+
+    tabl.o : pöytä
+
+    tabul.o : taulu (kirjoitus-)
+
+    tac.ar : vaieta (jstk)
+
+    takt.o : kosketus, tunto
+
+    taktik.o : taktiikka
+
+    tala : sellainen
+
+    tale : niin
+
+    talent.o : kyky, lahja
+
+    talon.o : kantapää
+
+    tam .. tam : mitä .. sitä
+
+    tamen : kuitenkin
+
+    tanta : niin paljon jotain
+
+    tante : niin paljon
+
+    tapis.o : matto
+
+    tard.a : myöhä
+
+    tas.o : kuppi
+
+    taur.o : härkä
+
+    tax.o : vero
+
+    taxio : taksi
+
+    tay.o : vyötärö
+
+    te.o : tee
+
+    teatr.o : teatteri
+
+    ted.ar : kyllästyttää
+
+    teg.ar : päällystää
+
+    tegul.o : kattotiili
+
+    tekt.o : katto (ulko-)
+
+    telefon.ar : soittaa puhelu
+
+    telefonil.o : puhelin
+
+    televizion.o : televisio (laite)
+
+    tem.o : aihe, teema
+
+    temeratur.o : lämpötila
+
+    temp.o : aika
+
+    tempest.ar : myrskytä
+
+    ten.ar : pitää (kiinni)
+
+    tend.o : teltta
+
+    tendenc.ar : taipua, olla halukas
+
+    tenebra : synkkä
+
+    tenebro : pimeys
+
+    tenebroz.a : pimeä
+
+    tens.ar : jännittää
+
+    tent.ar : vietellä
+
+    tenu.a : solakka
+
+    ter.o : maa
+
+    termin.o : käsite, termi
+
+    teror.o : kauhu
+
+    terven.ar : laskeutua
+
+    test.ar : todistaa
+
+    test.o : todiste
+
+    tex.ar : kutoa
+
+    text.o : teksti
+
+    ti : nuo
+
+    tigr.o : tiikeri
+
+    til : asti; til rivido - näkemiin!
+
+    tim.ar : pelätä
+
+    tint.ar : värjätä
+
+    tip.o : tyyppi
+
+    tir.ar : vetää
+
+    tiran.o : tyranni
+
+    titil.ar : kutittaa (jotakuta)
+
+    titul.o : nimi, otsikko
+
+    to : tuo
+
+    tol.o : liinakangas
+
+    toler.ar : sietää
+
+    tomb.o : hauta
+
+    ton.o : sävel
+
+    tond.ar : leikata
+
+    tondil.o : sakset
+
+    tondr.ar : jylistä
+
+    torch.o : soihtu
+
+    tord.ar : kiertää, vääntää
+
+    torment.ar : kiduttaa
+
+    torment.ar : kiusata
+
+    tortug.o : kilpikonna
+
+    tost.ar : kohottaa malja jllk
+
+    tost.ar : paahtaa
+
+    tot.a : koko(nainen)
+
+    tra : läpi
+
+    trab.o : hihna ?
+
+    trac.o : jälki, latu, polku, jotos
+
+    tradicion.o : perinne
+
+    traduk.ar : kääntää
+
+    trafik.o : liikenne
+
+    trahiz.ar : kavaltaa
+
+    trait.o : piirre
+
+    trakt.ar : käsitellä
+
+    tram.o : raitiovaunu
+
+    tranch.ar : leikata, veistellä
+
+    tranquil.a : rauhallinen, tyyni
+
+    trans : tuolla puolen, yli
+
+    tre : sangen
+
+    trelis.o : ristikko
+
+    trem.ar : vavista
+
+    tren.ar : laahata, vetää perässään
+
+    tren.o : juna
+
+    trezor.o : aarre
+
+    tri : kolme
+
+    trikot.ar : kutoa (puikoilla), neuloa
+
+    triumf.ar : voittaa, menestyä
+
+    tro : liian
+
+    tromp.ar : pettää
+
+    trotuar.o : jalkakäytävä
+
+    trov.ar : löytää
+
+    tru.o : reikä
+
+    trubl.ar : pulassa olla
+
+    trup.o : joukkue, tiimi
+
+    truto : taimen, forelli
+
+    tub.o : torvi, putki
+
+    tuk.o : liina
+
+    tulip.o : tulppaani
+
+    tumult.ar : häiriköidä
+
+    tun.o : sointu, sävel
+
+    tur.o : matka
+
+    turb.o : joukko, sakki
+
+    turm.o : torni, tyrmä ?
+
+    turn.ar : kääntää
+
+    tus.ar : yskiä
+
+    tush.ar : koskettaa
+
+    U
+
+    ube : missä
+
+    ucel.o : lintu
+
+    ula : jonkinlainen
+
+    ulafoye : joskus
+
+    ulaloke : jossain
+
+    ulamaniere : jotenkin
+
+    ulamotive : jostain syystä
+
+    ulaquante : jossain määrin
+
+    ulatempe : joskus
+
+    ule : jotenkin
+
+    ulo : joku, jokin
+
+    ultre : paitsi
+
+    ulu : joku ; di ulu : jonkun
+
+    un : yksi
+
+    ungl.o : kynsi
+
+    unik.a : ainutlaatuinen
+
+    univers.o : maailmankaikkeus
+
+    universal.a : yleismaailmallinen
+
+    universitat.o : yliopisto
+
+    unlater.a : tasapuolinen
+
+    unsenc.a : yksiselitteinen
+
+    urb.o : kaupunki
+
+    urin.o : virtsa
+
+    urj.ar : pyrkiä kiihkeästi
+
+    urjant.a : kiireellinen
+
+    urs.o : karhu
+
+    urtik.o : nokkonen
+
+    utensil.o : väline, työkalu
+
+    util.a : hyödyllinen
+
+    uz.ar : käyttää
+
+    V
+
+    vacini.o : puolukka
+
+    vag.ar : harhailla, vaeltaa
+
+    vagon.o : vaunu, vagonaro juna
+
+    vak.ar : olla käytettävissä
+
+    vakanc.ar : pitää lomaa
+
+    vaku.a : tyhjä
+
+    val.o : laakso
+
+    valiz.o : matkalaukku
+
+    valor.ar : olla jnk arvona, olla arvokas
+
+    vals.o : valssi
+
+    van.a : turha, tulokseton
+
+    vang.o : poski
+
+    vapor.o : höyry
+
+    varm.a : lämmin
+
+    varmeg.a : kuuma
+
+    varmig.ar : lämmittää
+
+    vars.ar : vuodattaa
+
+    vart.ar : odottaa
+
+    vast.a : laaja, tilava
+
+    vax.o : vaha
+
+    vaz.o : maljakko, astia
+
+    veh.ar (per) : ajaa, matkustaa (kulkuneuvolla)
+
+    vein.o : suoni
+
+    vek.ar : herättää
+
+    vel.o : harso, huntu
+
+    vel.o : purje
+
+    velur.o : sametti
+
+    ven.ar : tulla
+
+    vend.ar : myydä
+
+    venen.o : myrkky
+
+    venerdi.o : perjantai
+
+    venj.ar : kostaa
+
+    vent.o : tuuli
+
+    ventr.o : vatsa
+
+    ver.a : tosi
+
+    verd.a : vihreä
+
+    verkif.ar : kirjoittaa (teos)
+
+    verm.o : mato
+
+    vers.o : säe
+
+    vertu.o : hyve
+
+    vesp.o : ampiainen
+
+    vesper.o : ilta
+
+    vest.o : vaate
+
+    vestibul.o : eteinen
+
+    vestiz.ar : pukea
+
+    veter.o : sää
+
+    vex.ar : ärsyttää
+
+    vi : te (monikko)
+
+    vice : sijasta, asemasta
+
+    vicin.o : naapuri
+
+    vid.ar : nähdä
+
+    videokaset.o : kuvanauha
+
+    vidindaj.o : nähtävyys
+
+    vidvin.o : leskirouva
+
+    vidvul.o : leski(mies)
+
+    vilaj.o : kylä
+
+    vin.o : viini
+
+    vink.ar : voittaa
+
+    vintr.o : talvi
+
+    viol.o : orvokki
+
+    violin.o : viulu
+
+    vir.o : mies, uros (aikuinen, sukukypsä)
+
+    virg.a : neitseellinen
+
+    virgin.o : neitsyt
+
+    virin.o : miehenä esiintyvä nainen
+
+    virtu.o : hyve
+
+    virul.o : aikamies, miehinen mies
+
+    vish.ar : pyyhkiä
+
+    vist.o : viisumi
+
+    vitr.o : lasi (aine, ruutu)
+
+    viv.ar : elää
+
+    vivac.a : pirteä, aktiivinen
+
+    viz.ar : tähdätä, tarkoittaa
+
+    vizaj.o : kasvot
+
+    vizit.ar: käydä luona
+
+    voc.o : ääni
+
+    vol.ar : tahtoa
+
+    volf.o : susi
+
+    volunte : mielellään
+
+    volv.ar : kääriä
+
+    vom.ar : oksentaa
+
+    vort.o : sana
+
+    voy.o : tie
+
+    voyaj.ar : matkustaa
+
+    vu : Te (teitittely)
+
+    vund.ar : haavoittaa
+
+    W
+
+    west.o : länsi
+
+    Y
+
+    ya : -han, -hän
+
+    yar.o : vuosi
+
+    ye : epämääräinen prepositio
+
+    yen : on, kas tässä, (vrt. det finns, there is)
+
+    yes : kyllä
+
+    yogurt.o : jogurtti
+
+    yun.a : nuori
+
+    yur.o : oikeus
+
+    yust.a : oikeudenmukainen
+
+    Z
+
+    zer.o : nolla
+
+    zipil.o : vetoketju
+
+    zon.o : vyö
+
+    zum.ar : surista setstats 1 
