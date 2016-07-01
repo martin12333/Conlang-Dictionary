@@ -24,7 +24,15 @@ Point me towards other conlang dicts (Lojban, Ithkuil), preferably in a relative
 
 I don't understand Lojban, so someone else may need to help out with this language.
 
-### Fields
+### Design
+
+![Database Diagram](https://raw.githubusercontent.com/RachelJMorris/Conlang-Dictionary/master/Diagram.png)
+
+### Possible applications...
+
+* Web-based lookup dictionary
+* Mobile application
+* Desktop application
 
 
 
